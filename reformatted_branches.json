@@ -1,0 +1,2042 @@
+[
+  {
+    "Branch": "FB-AJWA 2",
+    "Manager": "FAHAD",
+    "Samsung": 2,
+    "Oppo": 3,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 2,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-ANKLESHWAR",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-BHARUCH",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-CHHANI",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GHOGHAMBA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GOTRI",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-HALOL-2",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-KAALOL",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KANJARI ROAD",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KAPADWANJ",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KARELIBAUG",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KARJAN",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KHEDA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-KUNJ PLAZA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MANJALPUR",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MANJUSAR",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-NADIAD 2",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NIZAMPURA",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-PADRA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SANTRAMPUR",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SAVLI",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SOMA TALAV",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SUBHANPURA",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-TARSALI",
+    "Manager": "FAHAD",
+    "Samsung": 2,
+    "Oppo": 2,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 2,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-UMRETH",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-ABHILASHA",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-DASHRATH",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-GORWA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-KARELIBAUG",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-MAKARPURA",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-NIZAMPURA 2",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FONEBOX-RACE COURSE",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SAMA",
+    "Manager": "FAHAD",
+    "Samsung": 2,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SAVLI",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SUBHANPURA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-TARSALI",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-WADI",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-WAGHODIA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-AJWA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-ANKLESHWAR",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-GORWA",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-KHODIYARNAGAR",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-NAVA YARD",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-WAGHODIYA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-DANDIYA BAZAR",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-KAPADVANJ",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-KATHLAL",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-PADRA",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE WORLD-KAPADVANJ",
+    "Manager": "FAHAD",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-WAGHODIA 2",
+    "Manager": "FAHAD",
+    "Samsung": 1,
+    "Oppo": 3,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-ASTODIA",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-BODAKDEV",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GONDAL",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-ISANPUR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-ISCON",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-MANINAGAR MAN-04",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 2,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-MANINAGAR MAN-05",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SANAND",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 2,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SHAHIBAUG",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-BHAVNAGAR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-JUNAGADH",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-DHOLKA",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GANDHIDHAM2",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GANDHIDHAM",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-DWARKA",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-LAMBHA",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-PEDAK ROAD",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SHIVRANJANI",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-NAROL",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-BARVALA",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-BHAVNAGAR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-JAMNAGAR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KHOKHRA",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MORBI",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SHYAMAL",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SIHOR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SOUTH BOPAL",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SIHOR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VIRAMGAM",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE WORLD-PORBANDAR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-HALDARVAS",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-HALDARVAS",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-BODAKDEV",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MAHEMDAVAD",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SURENDRANAGAR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-ADIPUR",
+    "Manager": "Mohsin PATHAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GANDHINAGAR11",
+    "Manager": "Himanshu",
+    "Samsung": 2,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 2,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-HIMMATNAGAR",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MOTA CHILODA",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NARODA",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NARODA 2",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NEW RANIP",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NIKOL",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-ODHAV",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SHASTRINAGAR",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-VASTRAL 2",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VASTRAL 3",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VIRATNAGAR",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-KALOL",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-NARODA",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-DANILIMDA",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GOMTIPUR",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KADI",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KALOL",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NIKOL2",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-RAKHIYAL",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VASTRAL",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-PRANTIJ",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-IDAR",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-ODHAV 3",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-PRANTIJ",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SUBHASHBRIDGE RTO",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-KALOL",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-NEW RANIP",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-CHANDLODIYA",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MODASA",
+    "Manager": "Himanshu",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NEW CHANDKHEDA",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-NIKOL 3",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-TALOD",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VATVA",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-RAKHIYAL",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SONI NI CHALI",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-TALOD",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-GNR11",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-TALOD",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-MODASA",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "PHONE BAZAR-GNR",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-BHILODA",
+    "Manager": "Himanshu",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-PANDESARA SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-RANDER 2 SRT",
+    "Manager": "KIRAN",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VED ROAD",
+    "Manager": "KIRAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-KIM",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 2,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 2,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-ADAJAN SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "MM-KATARGM SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-LP SAVANI SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-PODDAR MARKET SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-RING ROAD SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-YOGI CHOWK SRT",
+    "Manager": "KIRAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-DINDOLI",
+    "Manager": "KIRAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-SARTHANA SRT",
+    "Manager": "KIRAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-PIYUSH POINT",
+    "Manager": "KIRAN",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-RANDER SRT",
+    "Manager": "KIRAN",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MANDVI",
+    "Manager": "Kiran",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-PANDESARA 2",
+    "Manager": "kiran",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VALSAD",
+    "Manager": "kiran",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VAPI",
+    "Manager": "kiran",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-SAYAN",
+    "Manager": "kiran",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-Nirala Bazar",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-PARBHANI",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK- PUNDLIK NAGAR",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-CANNAUGHT",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-VAIJAPUR",
+    "Manager": "satish",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-PUNDLIK NAGAR",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-MYMOBILE-PUNDLIK NAGAR",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-AZAD CHOWK",
+    "Manager": "satish",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-BASMAT",
+    "Manager": "satish",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "MH-FONEBOX-OSMANPURA AURANGABAD",
+    "Manager": "satish",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-GEVRAI",
+    "Manager": "satish",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-DPROAD BEED",
+    "Manager": "satish",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-APNA BAZAR PARBHANI",
+    "Manager": "Satish",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "MH-FONEBOOK- AMBAD",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-CHANDWAD",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-DEOLA",
+    "Manager": "Kiran Khandave",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-NANDGAON",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-BORKUND",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-COLLEGE STOP MALEGAON",
+    "Manager": "Kiran Khandave",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-TRIMURTI CHOWK NASHIK",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-MYMOBILE-SATANA NAKA",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-SINNAR",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 2,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-SAYKHEDA",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-JAIL ROAD NASHIK",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-ASHOK NAGAR",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-UTTAMNAGAR CIDCO NASHIK",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-SATPUR GAON NASHIK",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-NIPHAD",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-PANCHAVATI NASIK",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-JATRA HOTEL NASHIK",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK- LASGLAGAON",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX- CHUNCHALE",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX- UMRANE",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-MY MOBILE- SHIVTIRTH,MALEGAON",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 1
+  },
+  {
+    "Branch": "MH-FONEBOOK- BYTCO POINT,SINGAL ROAD",
+    "Manager": "Kiran Khandave",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-MAHESANA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 1
+  },
+  {
+    "Branch": "FB-PALANPUR2",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VIJAPUR",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-DEESA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-GOZARIYA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KHERALU",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-KUKARWADA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-SIDHHPUR",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-VISNAGAR",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 1
+  },
+  {
+    "Branch": "FONEBOX-PATAN",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-BHILDI",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-BAHUCHRAJI",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FB-THARA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-GOZARIYA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-THARA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MM-KUKARWADA",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MY MOBILE-VADNAGAR",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "FONEBOX-VADNAGAR",
+    "Manager": "ANKIT GOSWAMI",
+    "Samsung": 0,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-SOLAPUR SATRASTA",
+    "Manager": "Ajit",
+    "Samsung": 1,
+    "Oppo": 1,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 1,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-SHAHUPURI KOLHAPUR",
+    "Manager": "Ajit",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 1,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOX-PANDHARPUR",
+    "Manager": "Ajit",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 0,
+    "Vivo": 0,
+    "Real me": 0
+  },
+  {
+    "Branch": "MH-FONEBOOK-AKLUJ",
+    "Manager": "Ajit",
+    "Samsung": 1,
+    "Oppo": 0,
+    "Mi": 0,
+    "Motorola": 1,
+    "Vivo": 0,
+    "Real me": 0
+  }
+]
